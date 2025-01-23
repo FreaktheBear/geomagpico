@@ -4,7 +4,7 @@ So all credits go to Justin Myers for his extensive contributions.
 It calculates the magnetic declination for a given set of parameters (location and time).
 
 ## Chances
-For this adaption a made a few changes in the geomag.py code in absence of some Micropython functionality for the Pi Pico.
+For this adaption I made a few changes in the geomag.py code in absence of some Micropython functionality for the Pi Pico.
 
 1) Replaced datetime with RTC.datetime
 2) Added the typing.py file
