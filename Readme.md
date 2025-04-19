@@ -1,4 +1,4 @@
-# PicoGeoMag
+# GeoMagPico
 This repository is an adaptions of the following existing pygeomag github repository https://github.com/boxpet/pygeomag.
 So all credits go to Justin Myers for his extensive contributions.
 It calculates the magnetic declination for a given set of parameters (location and time).
